@@ -1,0 +1,206 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"account",
+				"account_logged"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/rafalolszewski/Desktop/WebSites/bootstrap/css/style.css",
+		"/private/var/folders/lv/zgcb9jnd7fq8c68nvfwc70mr0000gn/T/4fc7cb8c-30a5-4d70-bf4a-5cd97d3bb633/var/www/pages/quests.php",
+		"/Users/rafalolszewski/Documents/NTT/tablet1/bower_components/bootstrap/less/bootstrap.less",
+		"/Users/rafalolszewski/Documents/NTT/tablet1/bower_components/bootstrap/less/mixins.less",
+		"/Users/rafalolszewski/Downloads/bootstrap-sass-3.1.1/bower.json",
+		"/private/var/folders/lv/zgcb9jnd7fq8c68nvfwc70mr0000gn/T/4fc7cb8c-30a5-4d70-bf4a-5cd97d3bb633/var/www/pages/createaccount.php",
+		"/Users/rafalolszewski/Desktop/WebSites/sass/test.scss",
+		"/Users/rafalolszewski/Library/Application Support/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/rafalolszewski/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/Users/rafalolszewski/Desktop/test",
+		"/Users/rafalolszewski/Library/Application Support/Sublime Text 3/Packages/codeivate-st/codeivate-st.sublime-settings",
+		"/Users/rafalolszewski/Library/Application Support/Sublime Text 3/Packages/User/codeivate-st.sublime-settings",
+		"/Users/rafalolszewski/Desktop/index.html",
+		"/private/var/folders/lv/zgcb9jnd7fq8c68nvfwc70mr0000gn/T/4fc7cb8c-30a5-4d70-bf4a-5cd97d3bb633/var/www/pages/accountmanagement.php",
+		"/private/var/folders/lv/zgcb9jnd7fq8c68nvfwc70mr0000gn/T/4fc7cb8c-30a5-4d70-bf4a-5cd97d3bb633/var/www/pages/guilds.php",
+		"/Users/rafalolszewski/Library/Application Support/Sublime Text 3/Packages/Default",
+		"/Users/rafalolszewski/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/private/var/folders/lv/zgcb9jnd7fq8c68nvfwc70mr0000gn/T/2212f524-1dff-4bfd-87e1-199892c01900/var/www/pages/download.php",
+		"/Users/rafalolszewski/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/rafalolszewski/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (OSX).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"mail",
+			"change emai",
+			"image"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "tablet1.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 209.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
